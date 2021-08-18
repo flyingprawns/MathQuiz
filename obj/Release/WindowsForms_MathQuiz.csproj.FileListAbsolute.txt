@@ -1,0 +1,9 @@
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\bin\Release\WindowsForms_MathQuiz.exe.config
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\bin\Release\WindowsForms_MathQuiz.exe
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\bin\Release\WindowsForms_MathQuiz.pdb
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.mathQuiz_Forms.resources
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.Properties.Resources.resources
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.csproj.GenerateResource.cache
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.exe
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_MathQuiz\WindowsForms_MathQuiz\obj\Release\WindowsForms_MathQuiz.pdb
